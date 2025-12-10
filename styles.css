@@ -45,7 +45,7 @@ img {
     opacity: 1;
   } /* stay visible for reading */
   100% {
-    opacity: 0;
+    opacity: 1;
   } /* fade out */
 }
 
